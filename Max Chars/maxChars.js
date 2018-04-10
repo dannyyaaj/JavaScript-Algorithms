@@ -18,7 +18,3 @@ function maxChars(str) {
   }
   return maxChar;
 }
-
-console.log(maxChars("How are you today?"));
-console.log(maxChars("Hello World"));
-console.log(maxChars("Danny Yang"));
